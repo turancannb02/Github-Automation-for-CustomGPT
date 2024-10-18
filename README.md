@@ -46,7 +46,7 @@ To use this automation, ensure you have the necessary permissions to access and 
 ## Configuration
 
 - **API Base URL**: `https://api.github.com`
-- **Default Branch**: `auth-adjustment-branch`
+- **Default Branch**: `[YOUR BRANCH NAME]`
 
 ## License
 
