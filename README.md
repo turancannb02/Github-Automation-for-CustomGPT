@@ -1,4 +1,16 @@
-# GitHub Repo Automation
+# 🤖 GitHub Automation for CustomGPT
+
+A Python-based automation tool that integrates with **GitHub API** to enable a **Custom GPT model** to create branches, edit files, and open pull requests automatically — streamlining AI-powered development workflows.
+
+<p align="center">
+  <a href="https://github.com/turancannb02/Github-Automation-for-CustomGPT">
+    <img src="https://img.shields.io/github/stars/turancannb02/Github-Automation-for-CustomGPT?style=plastic&logo=github" alt="GitHub Stars">
+  </a>
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=plastic&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/API-GitHub%20API-black?style=plastic&logo=github&logoColor=white" alt="GitHub API">
+  <img src="https://img.shields.io/badge/AI-CustomGPT-ff69b4?style=plastic&logo=openai&logoColor=white" alt="CustomGPT Integration">
+  <img src="https://img.shields.io/badge/Automation-Enabled-success?style=plastic&logo=githubactions&logoColor=white" alt="Automation">
+</p>
 
 ## Overview
 
